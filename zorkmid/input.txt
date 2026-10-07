@@ -1,0 +1,5 @@
+go north
+go west
+quit
+y
+

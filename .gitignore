@@ -1,0 +1,14 @@
+# Hardware build (local only: course-provided code and lab solutions)
+hw/
+.Xil/
+
+# Large or rebuildable binaries
+z-machine/zd
+zorkmid/zorkmid
+
+# Not published: Zork story file and anything containing game data/text
+z-machine/zork1.z3
+z-machine/z_game.s
+z-machine/z-disassemble*.txt
+zorkmid/zorkmid_*.txt
+zorkmid/zorkmid_err
